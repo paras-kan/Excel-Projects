@@ -6,7 +6,7 @@ Created an Interactive Dashboard for sales report for different regions.
 Softwares used - Excel
 
 
-# CoffeeSales
+# CoffeeOrders
 XLOOKUP
 INDEX MATCH
 Multiple IF functions
